@@ -44,7 +44,7 @@ This contains the course information for Fall 2011 and Spring 2012 and can also 
 
 ## Dependencies
 * Beautiful Soup: [http://www.crummy.com/software/BeautifulSoup/](http://www.crummy.com/software/BeautifulSoup/) (included)
-* Mechanize: [http://wwwsearch.sourceforge.net/mechanize/](http://www.crummy.com/software/BeautifulSoup/) (not included)
+* Mechanize: [http://wwwsearch.sourceforge.net/mechanize/](http://wwwsearch.sourceforge.net/mechanize/) (not included)
 
 ## Usage
 
